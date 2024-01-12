@@ -1,4 +1,4 @@
 package lauragallace.BEW4D5p.dao.services;
 
-public class Service {
+public class StationService {
 }
