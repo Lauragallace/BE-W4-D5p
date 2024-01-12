@@ -1,4 +1,7 @@
 package lauragallace.BEW4D5p.entities;
 
-public class StationType {
+public enum StationType {
+    PRIVATE,
+    OPENSPACE,
+    MEETINGROOM,
 }

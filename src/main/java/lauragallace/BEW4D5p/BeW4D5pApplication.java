@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BeW4D5pApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(BeW4D5pApplication.class, args);
 	}
 
