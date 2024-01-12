@@ -2,18 +2,16 @@ package lauragallace.BEW4D5p.entities;
 
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.time.LocalDate;
 import java.util.UUID;
-
+@Entity
+@Table (name="reservations")
 @Getter
 @Setter
-@Entity
-@AllArgsConstructor
 @NoArgsConstructor
 
 public class Reservation {
